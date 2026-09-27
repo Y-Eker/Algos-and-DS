@@ -1,0 +1,16 @@
+# Binaries and object files
+*.o
+*.out
+*.exe
+*.bin
+*.dSYM/
+
+# Build directories
+build/
+bin/
+
+# IDE and OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
