@@ -1,0 +1,5 @@
+1 Anna
+1 I topi non avevano nipoti.
+1 A man, a plan, a canal: Panama!
+0 Recursion needs a base case.
+0 Sorting changes the order.
